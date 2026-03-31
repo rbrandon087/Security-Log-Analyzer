@@ -1,6 +1,15 @@
-Scanning Evoirment...
-Evoirment Scanned Successfully.
-Reading Log File...
-Log File Read Successfully.
-Failed to Analyze Log File.
-Does this file contain something supicious?
+2025-03-12 10:15:22 INFO User 'Mason' logged in from 192.168.1.10
+2025-03-12 10:16:03 WARNING Disk space at 85% on /dev/sda1
+2025-03-12 10:17:44 ERROR Failed login attempt for user 'admin' from 185.199.110.22
+2025-03-12 10:17:47 ERROR Failed login attempt for user 'admin' from 185.199.110.22
+2025-03-12 10:17:50 ERROR Failed login attempt for user 'admin' from 185.199.110.22
+2025-03-12 10:18:12 INFO User 'service_bot' executed scheduled task
+2025-03-12 10:19:01 ERROR Failed login attempt for user 'root' from 77.88.55.66
+2025-03-12 10:19:22 INFO User 'Mason' logged out
+2025-03-12 10:20:11 INFO User 'alice' logged in from 10.0.0.5
+2025-03-12 10:20:33 ERROR Failed login attempt for user 'alice' from 203.0.113.45
+2025-03-12 10:21:02 CRITICAL Unauthorized access attempt detected from 45.76.12.99
+2025-03-12 10:22:15 INFO Backup completed successfully
+2025-03-12 10:23:44 ERROR Failed login attempt for user 'guest' from 185.199.110.22
+2025-03-12 10:24:10 WARNING High memory usage detected: 92%
+2025-03-12 10:25:55 INFO User 'alice' logged out
