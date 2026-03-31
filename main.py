@@ -1,6 +1,7 @@
 file = open("sample.log", "r")
 count = 0
-
+failed_ips = {}
+ # ERROR detection
 for line in file:
     if "ERROR" in line:
         print(line)
@@ -8,3 +9,5 @@ for line in file:
         count += 1
 
 print(f"Total error lines: {count}")
+
+  # FAILED login detection
