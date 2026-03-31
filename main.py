@@ -1,5 +1,10 @@
 file = open("sample.log", "r")
+count = 0
+
 for line in file:
-    print(line)
-    if "brandon" in line:
-        print("Does this file contain something supicious?")
+    if "ERROR" in line:
+        print(line)
+        print("This file contains an error message.")
+        count += 1
+
+print(f"Total error lines: {count}")
