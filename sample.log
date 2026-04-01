@@ -1,15 +1,115 @@
-2025-03-12 10:15:22 INFO User 'Mason' logged in from 192.168.1.10
-2025-03-12 10:16:03 WARNING Disk space at 85% on /dev/sda1
-2025-03-12 10:17:44 ERROR Failed login attempt for user 'admin' from 185.199.110.22
-2025-03-12 10:17:47 ERROR Failed login attempt for user 'admin' from 185.199.110.22
-2025-03-12 10:17:50 ERROR Failed login attempt for user 'admin' from 185.199.110.22
-2025-03-12 10:18:12 INFO User 'service_bot' executed scheduled task
-2025-03-12 10:19:01 ERROR Failed login attempt for user 'root' from 77.88.55.66
-2025-03-12 10:19:22 INFO User 'Mason' logged out
-2025-03-12 10:20:11 INFO User 'alice' logged in from 10.0.0.5
-2025-03-12 10:20:33 ERROR Failed login attempt for user 'alice' from 203.0.113.45
-2025-03-12 10:21:02 CRITICAL Unauthorized access attempt detected from 45.76.12.99
-2025-03-12 10:22:15 INFO Backup completed successfully
-2025-03-12 10:23:44 ERROR Failed login attempt for user 'guest' from 185.199.110.22
-2025-03-12 10:24:10 WARNING High memory usage detected: 92%
-2025-03-12 10:25:55 INFO User 'alice' logged out
+2025-03-12 10:26:12 INFO User 'mason' logged in from 192.168.1.10
+2025-03-12 10:27:03 ERROR Failed login attempt for user 'admin' from 185.199.110.22
+2025-03-12 10:27:05 ERROR Failed login attempt for user 'admin' from 185.199.110.22
+2025-03-12 10:27:08 ERROR Failed login attempt for user 'admin' from 185.199.110.22
+2025-03-12 10:27:10 ERROR Failed login attempt for user 'admin' from 185.199.110.22
+2025-03-12 10:27:12 ERROR Failed login attempt for user 'admin' from 185.199.110.22
+
+2025-03-12 10:28:44 WARNING CPU usage at 91%
+2025-03-12 10:29:01 INFO User 'service_bot' executed scheduled task
+2025-03-12 10:29:33 ERROR Failed login attempt for user 'root' from 66.77.88.99
+2025-03-12 10:29:36 ERROR Failed login attempt for user 'root' from 66.77.88.99
+
+2025-03-12 10:30:11 INFO User 'alice' logged in from 10.0.0.5
+2025-03-12 10:30:44 ERROR Failed login attempt for user 'alice' from 203.0.113.45
+2025-03-12 10:30:47 ERROR Failed login attempt for user 'alice' from 203.0.113.45
+2025-03-12 10:30:50 ERROR Failed login attempt for user 'alice' from 203.0.113.45
+
+2025-03-12 10:31:22 CRITICAL Unauthorized access attempt detected from 45.76.12.99
+2025-03-12 10:31:25 CRITICAL Unauthorized access attempt detected from 45.76.12.99
+
+2025-03-12 10:32:10 INFO Backup completed successfully
+2025-03-12 10:32:44 WARNING High memory usage detected: 94%
+
+2025-03-12 10:33:12 ERROR Failed login attempt for user 'guest' from 185.199.110.22
+2025-03-12 10:33:15 ERROR Failed login attempt for user 'guest' from 185.199.110.22
+
+2025-03-12 10:34:55 INFO User 'alice' logged out
+2025-03-12 10:35:22 INFO User 'mason' logged out
+
+2025-03-12 10:36:01 ERROR Failed login attempt for user 'backup_admin' from 102.54.22.11
+2025-03-12 10:36:04 ERROR Failed login attempt for user 'backup_admin' from 102.54.22.11
+2025-03-12 10:36:07 ERROR Failed login attempt for user 'backup_admin' from 102.54.22.11
+2025-03-12 10:36:10 ERROR Failed login attempt for user 'backup_admin' from 102.54.22.11
+
+2025-03-12 10:37:44 WARNING Disk space at 92% on /dev/sdb1
+2025-03-12 10:38:12 INFO User 'service_bot' executed scheduled task
+
+2025-03-12 10:39:33 ERROR Failed login attempt for user 'root' from 77.88.55.66
+2025-03-12 10:39:36 ERROR Failed login attempt for user 'root' from 77.88.55.66
+2025-03-12 10:39:39 ERROR Failed login attempt for user 'root' from 77.88.55.66
+
+2025-03-12 10:40:22 CRITICAL Unauthorized access attempt detected from 201.44.33.12
+2025-03-12 10:40:25 CRITICAL Unauthorized access attempt detected from 201.44.33.12
+2025-03-12 10:40:28 CRITICAL Unauthorized access attempt detected from 201.44.33.12
+
+2025-03-12 10:41:55 INFO User 'mason' logged in from 192.168.1.10
+2025-03-12 10:42:12 ERROR Failed login attempt for user 'mason' from 144.22.19.88
+2025-03-12 10:42:15 ERROR Failed login attempt for user 'mason' from 144.22.19.88
+
+2025-03-12 10:43:44 WARNING High memory usage detected: 89%
+2025-03-12 10:44:12 INFO Backup completed successfully
+
+2025-03-12 10:45:33 ERROR Failed login attempt for user 'admin' from 185.199.110.22
+2025-03-12 10:45:36 ERROR Failed login attempt for user 'admin' from 185.199.110.22
+2025-03-12 10:45:39 ERROR Failed login attempt for user 'admin' from 185.199.110.22
+
+2025-03-12 10:46:12 INFO User 'service_bot' executed scheduled task
+2025-03-12 10:46:44 WARNING CPU temperature high: 87C
+2025-03-12 10:47:01 ERROR Failed login attempt for user 'admin' from 185.199.110.22
+2025-03-12 10:47:04 ERROR Failed login attempt for user 'admin' from 185.199.110.22
+2025-03-12 10:47:07 ERROR Failed login attempt for user 'admin' from 185.199.110.22
+
+2025-03-12 10:48:22 INFO User 'mason' logged in from 192.168.1.10
+2025-03-12 10:48:55 ERROR Failed login attempt for user 'mason' from 144.22.19.88
+2025-03-12 10:48:58 ERROR Failed login attempt for user 'mason' from 144.22.19.88
+2025-03-12 10:49:01 ERROR Failed login attempt for user 'mason' from 144.22.19.88
+
+2025-03-12 10:49:44 WARNING Disk space at 93% on /dev/sda1
+2025-03-12 10:50:12 INFO Backup completed successfully
+
+2025-03-12 10:50:55 ERROR Failed login attempt for user 'root' from 102.54.22.11
+2025-03-12 10:50:58 ERROR Failed login attempt for user 'root' from 102.54.22.11
+2025-03-12 10:51:01 ERROR Failed login attempt for user 'root' from 102.54.22.11
+2025-03-12 10:51:04 ERROR Failed login attempt for user 'root' from 102.54.22.11
+
+2025-03-12 10:52:22 CRITICAL Unauthorized access attempt detected from 201.44.33.12
+2025-03-12 10:52:25 CRITICAL Unauthorized access attempt detected from 201.44.33.12
+
+2025-03-12 10:53:33 INFO User 'guest' logged in from 172.16.0.22
+2025-03-12 10:53:55 ERROR Failed login attempt for user 'guest' from 185.199.110.22
+2025-03-12 10:53:58 ERROR Failed login attempt for user 'guest' from 185.199.110.22
+
+2025-03-12 10:54:44 WARNING High memory usage detected: 95%
+2025-03-12 10:55:12 INFO User 'guest' logged out
+
+2025-03-12 10:55:55 ERROR Failed login attempt for user 'service_bot' from 66.77.88.99
+2025-03-12 10:55:58 ERROR Failed login attempt for user 'service_bot' from 66.77.88.99
+2025-03-12 10:56:01 ERROR Failed login attempt for user 'service_bot' from 66.77.88.99
+
+2025-03-12 10:56:44 WARNING CPU usage at 93%
+2025-03-12 10:57:12 INFO User 'alice' logged in from 10.0.0.5
+
+2025-03-12 10:57:55 ERROR Failed login attempt for user 'alice' from 203.0.113.45
+2025-03-12 10:57:58 ERROR Failed login attempt for user 'alice' from 203.0.113.45
+2025-03-12 10:58:01 ERROR Failed login attempt for user 'alice' from 203.0.113.45
+2025-03-12 10:58:04 ERROR Failed login attempt for user 'alice' from 203.0.113.45
+
+2025-03-12 10:59:22 CRITICAL Unauthorized access attempt detected from 45.76.12.99
+2025-03-12 10:59:25 CRITICAL Unauthorized access attempt detected from 45.76.12.99
+2025-03-12 10:59:28 CRITICAL Unauthorized access attempt detected from 45.76.12.99
+
+2025-03-12 11:00:12 INFO User 'alice' logged out
+2025-03-12 11:00:44 WARNING Disk space at 94% on /dev/sdb1
+
+2025-03-12 11:01:33 ERROR Failed login attempt for user 'backup_admin' from 144.22.19.88
+2025-03-12 11:01:36 ERROR Failed login attempt for user 'backup_admin' from 144.22.19.88
+2025-03-12 11:01:39 ERROR Failed login attempt for user 'backup_admin' from 144.22.19.88
+2025-03-12 11:01:42 ERROR Failed login attempt for user 'backup_admin' from 144.22.19.88
+
+2025-03-12 11:02:55 INFO User 'mason' logged in from 192.168.1.10
+2025-03-12 11:03:12 ERROR Failed login attempt for user 'mason' from 201.44.33.12
+2025-03-12 11:03:15 ERROR Failed login attempt for user 'mason' from 201.44.33.12
+
+2025-03-12 11:04:44 WARNING High memory usage detected: 91%
+2025-03-12 11:05:12 INFO Backup completed successfully

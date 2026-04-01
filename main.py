@@ -18,5 +18,9 @@ for line in file:
     for ip, attempts in failed_ips.items():
         print(f"IP: {ip}, Failed attempts: {attempts}")
 
-print(f"Total error lines: {count}")
+        for ip, attempts in failed_ips.items():
+            if attempts > 3:
+                print(f"IP: {ip} has {attempts} failed attempts. Consider blocking this IP.")
 
+print(f"Total error lines: {count}")
+ 
